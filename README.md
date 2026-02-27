@@ -1,9 +1,3 @@
-Here is a professional **README.md** file for your GitHub project based on your BRD and Interview Explanation documents.
-
-You can directly copy this into your `README.md` file 👇
-
----
-
 # 📊 Meta Ad Performance Dashboard (Power BI)
 
 ## 🚀 Project Overview
